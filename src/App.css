@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  margin: auto;
+  box-sizing: border-box;
+  font-family: Montserrat;
+}
+
+h1 {
+  padding: 20px;
+}
